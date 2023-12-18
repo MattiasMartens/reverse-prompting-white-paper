@@ -57,5 +57,6 @@ Claude also has an annoying habit of going off-script and especially spilling it
 Final output:
 1. "Whether I can be happy" https://partyrock.aws/u/MattiasMartens/fC3B-IhcQ/Guiding-Life-Questions/snapshot/kQCM2qmOv
 2. "How many snowflakes are there?" https://partyrock.aws/u/MattiasMartens/fC3B-IhcQ/Guiding-Life-Questions/snapshot/ppzjUcdw8
+3. Meg's convo https://partyrock.aws/u/MattiasMartens/fC3B-IhcQ/Guiding-Life-Questions/snapshot/MY9QlZTus
 
 Published app: https://partyrock.aws/u/MattiasMartens/fC3B-IhcQ/Guiding-Life-Questions
